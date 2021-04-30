@@ -36,7 +36,7 @@
    </Ordinateur>
    <Ordinateur id="04">
       <Model>POP OS</Model>
-      <Date_mise_en_service>2018</Date_mise_en_service>
+      <Date_mise_en_service>2019</Date_mise_en_service>
       <ip>41.101.143.83</ip>
       <System_de_exploitation>Linux-x64bit</System_de_exploitation>
       <Ram>8GB</Ram>
@@ -56,7 +56,7 @@
    </Ordinateur>
    <Ordinateur id="06">
       <Model>ACER-Predator</Model>
-      <Date_mise_en_service>2017</Date_mise_en_service>
+      <Date_mise_en_service>2020</Date_mise_en_service>
       <ip>41.101.143.81</ip>
       <System_de_exploitation>Windows-10</System_de_exploitation>
       <Ram>64GB</Ram>
